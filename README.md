@@ -37,7 +37,7 @@ $ ./manage.py startapp wines
 
 If you didn't include the `.` after the `startproject` command, you'll have to move the contents of `wine_api` up one level so that your structure looks like this:
 
-![Directory Structure](./directory-structure.jpg)
+![Directory Structure](https://github.com/mikeplatoon/curriculum/blob/master/week-10/directory-structure.jpg)
 
 Then let's create our Wine model:
 
