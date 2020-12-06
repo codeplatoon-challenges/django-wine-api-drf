@@ -213,5 +213,3 @@ We have to add a few things to our Django app to make sure it will run properly 
 Go to https://www.heroku.com/ and create a new free account. Once you are logged into your dashboard, click the link to create a new app. Give the app a name and click 'Create App'. Heroku has pretty straight forward instructions on how to proceed. Follow the deployment instructions on the `Deploy` tab.
 
 Once you are done, run your migrations: `heroku run python manage.py migrate` from the root of your project. You can visit your app by pasting the unique URL Heroku provides into your browser, or by clicking 'Open App' in the upper right corner of you Heroku dashboard. You've successfully deployed your first app!
-
-A completed copy of today's code can be found [here in this repo](https://github.com/mikeplatoon/django-complete-wine-api).
